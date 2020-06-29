@@ -1,0 +1,10 @@
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.csprojAssemblyReference.cache
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.fLogin.resources
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.Properties.Resources.resources
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.csproj.GenerateResource.cache
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\bin\Debug\QuanLyCLBVoThuat.exe.config
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\bin\Debug\QuanLyCLBVoThuat.exe
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\bin\Debug\QuanLyCLBVoThuat.pdb
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.exe
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.pdb
+E:\UIT_Winform\QuanLyCLBVoThuat\QuanLyCLBVoThuat\obj\Debug\QuanLyCLBVoThuat.fAccountProfile.resources
